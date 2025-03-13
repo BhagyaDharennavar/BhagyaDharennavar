@@ -1,4 +1,4 @@
-## Hi there 👋 Im Bhagya Dharennavar
+## Hi there 👋 I'm Bhagya Dharennavar
 
 <!--
 **BhagyaDharennavar/BhagyaDharennavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
