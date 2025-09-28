@@ -1,47 +1,57 @@
-<h1 align="center">Hi 👋, I'm Bhagya Dharennavar</h1>
-<h3 align="center">Data Analyst | Visualization & Analytics Expert </h3>
-
-
-- 🔢 **Learning How to Turn Data Into Decisions**
-  
-- 🌱 **Expanding My Skills In:** Data Analytics, SQL, and Python 
-
-- 🎯 **Building Expertise In:** Data Storytelling & Dashboard Design
-  
-- 🔥 **Passionate About Learning:** Data Science & AI-Powered Analytics  
-
-- 📑 **Check out my resume here** - [My Resume](https://drive.google.com/file/d/1IHPjulJbD0XIFfUu8-k5Qp6YG1vzlQFx/view?usp=sharing)
-
-- 💻 **Projects & Insights:** [GitHub](https://github.com/BhagyaDharennavar)
-
-- 📫 Reach out to me at **bhagya.dare12@gmail.com**
----
-
-## 🚀 Skills & Tools  
-
-### 📊 Data Analytics & BI  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
-
-### 🛠️ Programming & Databases  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-### 🔥 Data Science & Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
----
----
-
-## 🔗 Let's Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagya-d-53a4ab222)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BhagyaDharennavar)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagya.dare12@gmail.com)  
+# Hi, I’m Bhagya Dharennavar 👋
+🔹 Cybersecurity & Networking Enthusiast | SOC Analyst  
+🔹 Electronics & Communication Engineer | Hands-on with SIEM, Wireshark & Packet Tracer  
 
 ---
 
+## 🔧 Skills
+
+### *Networking*
+![Cisco](https://img.shields.io/badge/Cisco-05122A?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-E23A18?style=for-the-badge&logo=packet-tracer&logoColor=white)
+
+### *Cybersecurity*
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-FF5C00?style=for-the-badge&logo=wazuh&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### *Programming & Scripting*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### *Tools & Platforms*
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-FF6F61?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+---
+
+## 🚀 Projects
+### *SOC Monitoring & Security Event Detection*
+- Monitored logs and detected threats using Splunk & Wazuh SIEM  
+- Technologies: Windows, Linux, Splunk, Wazuh  
+- [Project Details](#)
+
+### *Network Segmentation & ACLs in Packet Tracer*
+- Configured VLANs, Router-on-a-Stick, ACLs blocking HTTP & ICMP  
+- Added advanced ACLs and security policies  
+- [Project Details](#)
+
+### *Wireshark Network Traffic Analysis*
+- Captured and analyzed network packets to detect anomalies  
+- Applied filters, protocols, and TCP/UDP analysis  
+- [Project Details](#)
+
+---
+
+## 🎓 Certifications & Learning
+- TryHackMe: [Profile](https://tryhackme.com/p/BhagyaD)  
+- Completed Cisco Networking & Cybersecurity Labs  
+- [Deloitte Certificate](https://drive.google.com/file/d/1v7Ep-z2_G4NrzgcD4HMRhneC6g-wBJwm/view?usp=drivesdk)  
+- [TCS Certificate](https://drive.google.com/file/d/1v6jrXkxWGiSpacBrQc3POhgQuVzZ9wbU/view?usp=drivesdk)
+
+---
+
+## 📊 GitHub Stats
+![Bhagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhagyaDharennavar&show_icons=true&theme=radical)
