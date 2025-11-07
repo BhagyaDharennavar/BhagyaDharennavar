@@ -49,7 +49,7 @@
 
 ---
 
-## 🚀 Projects (Resume-style — neatly explained)
+## 🚀 Projects
 
 ### 🧩 **Log Monitoring & Threat Detection using Wazuh SIEM (Windows)**  
 **Tools:** Wazuh, Ubuntu, Windows Event Logs  
@@ -98,12 +98,10 @@
 
 ---
 
-## 📊 GitHub Analytics (Dark / Neon theme)
+## 📊 GitHub Analytics 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhagyaDharennavar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF9C&icon_color=00FF9C" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhagyaDharennavar&theme=chartreuse-dark&hide_border=true&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" width="48%" alt="GitHub Streak">
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhagyaDharennavar&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF9C" width="48%" alt="Top Languages">
@@ -111,9 +109,7 @@
 
 ---
 
-## 🕵️ TryHackMe Progress (Dynamic)
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/BhagyaD.png)](https://tryhackme.com/p/BhagyaD)
+## 🕵️ TryHackMe Progress 
 
 **Profile:** https://tryhackme.com/p/BhagyaD  
 **Focus:** Windows fundamentals, Active Directory, SOC / Blue Team skills  
